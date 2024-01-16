@@ -87273,7 +87273,7 @@ d=t.z
 c=A.kM(null,A.ar(["Authorization","Bearer "+A.i(a2)],f,d),null)
 c.a="POST"
 s=10
-return A.P(J.aM5(m,"http://3.37.58.59:8080/user/refreshToken",null,null,null,null,c,null,d),$async$i8)
+return A.P(J.aM5(m,"http://3.37.58.59:8080/auth/refreshToken",null,null,null,null,c,null,d),$async$i8)
 case 10:l=a8
 k=A.aO(J.bf(l.a,"accessToken"))
 j=A.aO(J.bf(l.a,"refreshToken"))
